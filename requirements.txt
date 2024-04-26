@@ -1,0 +1,5 @@
+streamlit
+langchain
+ipykernel
+pypdf
+langchain_google_genai
